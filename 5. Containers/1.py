@@ -1,0 +1,1 @@
+singers = ['Jay zhou', 'JJ']
